@@ -24,4 +24,4 @@ The package contains the following datasets:
 1. Large Marine Ecoregions: `?lmes`
 2. Marine Ecoregions of the World: `?meows`
 3. Exclusive Economic Zones: `?eez`
-4. FAO major fishing areas: `?fao_area`
+4. FAO major fishing areas: `?fao_areas`
