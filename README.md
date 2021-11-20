@@ -2,7 +2,7 @@
 
 ## Overview
 
-This R packages contains GIS data for the ocean.
+This R packages contains GIS data for the ocean. Many of the datasets are from the iconic [marineregions.org](https://www.marineregions.org/) website. All of the datasets are made available as 'sf' objects.
 
 ## Installation
 
