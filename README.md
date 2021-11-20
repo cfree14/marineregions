@@ -30,7 +30,7 @@ The package contains 'sf' objects (think shapefiles for R) presenting the follow
 
 The original sources of these datasets are as follows:
 
-*MEOWS:* Spalding, M.D., Fox, H.E., Allen, G.R., Davidson, N., Ferdaña, Z.A., Finlayson, M.A.X., Halpern, B.S., Jorge, M.A., Lombana, A.L., Lourie, S.A., Martin, K.D. (2007) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience 57(7): 573-583. Available from: https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas
+**MEOWs:** Spalding, M.D., Fox, H.E., Allen, G.R., Davidson, N., Ferdaña, Z.A., Finlayson, M.A.X., Halpern, B.S., Jorge, M.A., Lombana, A.L., Lourie, S.A., Martin, K.D. (2007) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience 57(7): 573-583. Available from: https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas
 
 ## Citation
 
