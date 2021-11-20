@@ -7,8 +7,13 @@
 \format{
 A SF object with the following attributes::
 \describe{
-  \item{meow_id}{}
-  \item{lme_name}{}
+  \item{lat_zone}{Latitude zone}
+  \item{realm_id}{Realm id}
+  \item{realm}{Realm}
+  \item{province_id}{Province id}
+  \item{province}Province{}
+  \item{ecoregion_id}{Ecoregion id}
+  \item{ecoregion}{Ecoregion}
 }
 }
 \source{

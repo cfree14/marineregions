@@ -7,8 +7,8 @@
 \format{
 A SF object with the following attributes::
 \describe{
-  \item{lme_id}{}
-  \item{lme_name}{}
+  \item{lme_id}{LME id}
+  \item{lme_name}{LME name}
 }
 }
 \source{
