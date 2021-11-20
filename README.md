@@ -2,11 +2,11 @@
 
 ## Overview
 
-This R packages contains GIS data for the ocean. Many of the datasets are from the iconic [marineregions.org](https://www.marineregions.org/) website. All of the datasets are made available as 'sf' objects.
+This R packages contains GIS data for the ocean. Many of the datasets are from the iconic [marineregions.org](https://www.marineregions.org/) website. All of the datasets are made available as ['sf' objects](https://r-spatial.github.io/sf/). Please contact me (cfree14@gmail.com) if there are datasets you would like to see added to the package.
 
 ## Installation
 
-The "GENuS" R package can be installed from GitHub with:
+The "marineregions" R package can be installed from GitHub with:
 
 ``` r
 # Run if you don't already have devtools installed
@@ -19,11 +19,11 @@ library(marineregions)
 
 ## Datasets
 
-The package contains the following datasets:
+The package contains 'sf' objects (think shapefiles for R) presenting the following datasets:
 
 1. Large Marine Ecoregions (LMEs): `?lmes`
 2. Marine Ecoregions of the World (MEOWs): `?meows`
-3. Exclusive Economic Zones (EEZs): `?eez`
+3. Exclusive Economic Zones (EEZs): `?eezs`
 4. FAO major fishing areas: `?fao_areas`
 
 ## Dataset sources
