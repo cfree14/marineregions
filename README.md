@@ -1,4 +1,4 @@
-# Marine regions and other marine GIS data
+# Marine regions and other GIS data for the ocean
 
 ## Overview
 
@@ -33,5 +33,7 @@ The original sources of these datasets are as follows:
 
 
 ## Citation
+
+Please cite the original sources when using a dataset. If you also wish to cite this repository, you can cite it as:
 
 Free CM (2021) Marine regions and other marine GIS data. Available at: https://github.com/cfree14/marineregions/
