@@ -30,7 +30,13 @@ The package contains 'sf' objects (think shapefiles for R) presenting the follow
 
 The original sources of these datasets are as follows:
 
+**LMEs:** IUCN (2021) Large Marine Ecosystems of the World. Previously available at: http://lme.edc.uri.edu/index.php. Now potentially available at: https://lmehub.net/
+
 **MEOWs:** Spalding, M.D., Fox, H.E., Allen, G.R., Davidson, N., Ferdaña, Z.A., Finlayson, M.A.X., Halpern, B.S., Jorge, M.A., Lombana, A.L., Lourie, S.A., Martin, K.D. (2007) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience 57(7): 573-583. Available from: https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas
+
+**EEZs:** Flanders Marine Institute (2019) Maritime Boundaries Geodatabase, version 11. Available from: https://www.marineregions.org/
+
+**FAO Fishing Areas:** FAO (2014) FAO Statistical Areas for Fishery Purposes. FAO Fisheries & Aquaculture Department. Available at: https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/metadata/ac02a460-da52-11dc-9d70-0017f293bd28
 
 ## Citation
 
