@@ -10,6 +10,7 @@ rm(list = ls())
 library(tidyverse)
 
 # Read data
+<<<<<<< HEAD
 eezs_orig <- sf::st_read("/Users/cfree/Dropbox/Chris/UCSB/data/eezs/World_EEZ_v11_20191118/eez_v11.shp")
 eezs_lines_orig <- sf::st_read("/Users/cfree/Dropbox/Chris/UCSB/data/eezs/World_EEZ_v11_20191118/eez_boundaries_v11.shp")
 eezs_lr_orig <- sf::st_read("/Users/cfree/Dropbox/Chris/UCSB/data/eezs/World_EEZ_v11_20191118_LR/eez_v11_lowres.shp")
@@ -31,6 +32,11 @@ usethis::use_data(eezs_lr, overwrite = T)
 
 
 # Format full-res data
+=======
+eezs_orig <- sf::st_read("/Users/cfree/Dropbox/Chris/UCSB/data/eezs/World_EEZ_v11_20191118_LR/eez_v11_lowres.shp")
+
+# Format data
+>>>>>>> 04362a86cc944628b08c6ed9fe49b77dc3448e63
 ################################################################################
 
 # Format data
@@ -44,6 +50,7 @@ str(eezs)
 # Export data
 usethis::use_data(eezs, overwrite = T)
 
+<<<<<<< HEAD
 
 # Format full-res data - lines
 ################################################################################
@@ -61,3 +68,5 @@ usethis::use_data(eezs_lines, overwrite = T)
 
 
 
+=======
+>>>>>>> 04362a86cc944628b08c6ed9fe49b77dc3448e63
