@@ -5,19 +5,19 @@
 \alias{meows}
 \title{Marine Ecoregions of the World (MEOWs)}
 \format{
-A SF object with the following attributes::
+A SF object with the following attributes:
 \describe{
   \item{lat_zone}{Latitude zone}
   \item{realm_id}{Realm id}
   \item{realm}{Realm}
   \item{province_id}{Province id}
-  \item{province}Province{}
+  \item{province}{Province}
   \item{ecoregion_id}{Ecoregion id}
   \item{ecoregion}{Ecoregion}
 }
 }
 \source{
-https://lmehub.net/ - Spalding LME
+Spalding, M.D., Fox, H.E., Allen, G.R., Davidson, N., Ferdaña, Z.A., Finlayson, M.A.X., Halpern, B.S., Jorge, M.A., Lombana, A.L., Lourie, S.A., Martin, K.D. (2007) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience 57(7): 573-583. Available from: https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas
 }
 \usage{
 meows

@@ -19,8 +19,8 @@ lmes_orig <- sf::st_read("/Users/cfree/Dropbox/Chris/UCSB/data/lmes/LME66.shp")
 lmes <- lmes_orig %>%
   # Names
   janitor::clean_names("snake") %>%
-  rename(lme_id=lme_number) %>%
-  select(lme_id, lme_name, geometry)
+  rename(ecoregion_id=lme_number, ecoregion=lme_name) %>%
+  select(ecoregion_id, ecoregion, geometry)
 
 # Inspect
 str(lmes)

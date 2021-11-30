@@ -5,14 +5,14 @@
 \alias{lmes}
 \title{Large Marine Ecoregions (LMEs)}
 \format{
-A SF object with the following attributes::
+A SF object with the following attributes:
 \describe{
-  \item{lme_id}{LME id}
-  \item{lme_name}{LME name}
+  \item{ecoregion_id}{Ecoregion id}
+  \item{ecoregion}{Ecoregion}
 }
 }
 \source{
-https://lmehub.net/ - Spalding LME
+IUCN (2021) Large Marine Ecosystems of the World. Previously available at: http://lme.edc.uri.edu/index.php. Now potentially available at: https://lmehub.net/
 }
 \usage{
 lmes
